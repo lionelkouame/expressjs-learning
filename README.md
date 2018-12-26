@@ -1,2 +1,2 @@
 # expressjs-learning
-learn expressJs with official documentation.
+learn Express.js with official documentation.
